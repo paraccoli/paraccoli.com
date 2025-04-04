@@ -1,0 +1,19 @@
+# 設定ファイル
+.env
+.env.*
+!.env.example
+*.log
+api_logs.log
+
+# キャッシュ・ビルドファイル
+node_modules/
+dist/
+build/
+.cache/
+__pycache__/
+
+# API関連
+api/.env
+api/logs/
+api/__pycache__/
+bot/.env
