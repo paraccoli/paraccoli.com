@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.2.0-61dafb.svg)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Latest-38bdf8.svg)](https://tailwindcss.com/)
-[![Discord](https://img.shields.io/badge/Discord-Join-7289da.svg)](https://discord.gg/YOUR_INVITE)
+[![Discord](https://img.shields.io/badge/Discord-Join-7289da.svg)](https://discord.gg/BRJd9xv7eA)
 
 ## 📝 概要
 
