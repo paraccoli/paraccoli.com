@@ -1,4 +1,4 @@
-# Project Paraccoli【PARC】 | Discord仮想通貨シミュレーションゲーム 公式ウェブサイト
+# Project Paraccoli【PARC】 | Discord仮想通貨シミュレーションゲーム 公式ウェブサイト(サービス終了済)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.2.0-61dafb.svg)](https://reactjs.org/)
